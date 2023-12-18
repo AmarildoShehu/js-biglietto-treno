@@ -16,3 +16,13 @@ L'output del prezzo finale va messo fuori in forma umana (con massimo due decima
 prezzo). Questo richiederà un minimo di ricerca.
 
 Buon lavoro!
+
+
+Descrizione:
+
+1. Collegamento file js all'html.
+2. Chiedo quanti km vuole percorrere
+e quanti anni ha.
+3. Calcolo il prezzo del biglietto per km percorsi.
+4. Applico sconto sull'età.
+5. mostro prezzo finale in pagina.
